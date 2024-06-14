@@ -1,4 +1,4 @@
-Mini-project for the C# course - bakery simulator with the production line. 
+Mini-project for the C# course (December 2023) - bakery simulator with the production line. 
 
 
 
